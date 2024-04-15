@@ -2,7 +2,9 @@
 It consists of demo for git and github.
 
 # teacher 
-shradha khapra 
+Shradha khapra 
 
 # student
-khushi
+Khushi
+
+this is delta demo
